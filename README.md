@@ -1,6 +1,6 @@
 # Simple Calculator
 
-**Live Demo:** [Click here to view](https://your-username.github.io/gradeCalculator_project/)
+**Live Demo:** [Click here to view](https://fellowone.github.io/SimpleCalc/)
 ---
 
 ## Project Overview
