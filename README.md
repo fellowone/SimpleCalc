@@ -1,13 +1,8 @@
-# SimpleCalc
-Can be used for simple arithmetic operations of addition, subtraction, division, multiplication, squaring and cube on two numbers.
-
 # Simple Calculator
 
 ## Live Demo
 Once hosted using GitHub Pages, the project will be available at:  
-[https://your-username.github.io/calculator_project/](https://your-username.github.io/calculator_project/)  
-(Replace `your-username` with your GitHub username)
-
+[https://fellowone.github.io/calculator_project/](https://your-username.github.io/calculator_project/)
 ---
 
 ## Project Overview
