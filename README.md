@@ -1,8 +1,6 @@
 # Simple Calculator
 
-## Live Demo
-Once hosted using GitHub Pages, the project will be available at:  
-[https://fellowone.github.io/calculator_project/](https://your-username.github.io/calculator_project/)
+**Live Demo:** [Click here to view](https://your-username.github.io/gradeCalculator_project/)
 ---
 
 ## Project Overview
